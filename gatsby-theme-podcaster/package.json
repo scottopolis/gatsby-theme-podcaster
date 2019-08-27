@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-theme-podcaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Scott Bolinger",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.6.0"
+  },
+  "dependencies": {
+    "gatsby-source-anchor": "^0.5.1",
+    "gatsby-source-graphql": "^2.1.9",
+    "gatsby-theme-tailwindcss": "^1.0.1",
+    "react-icons": "^3.7.0"
+  }
+}

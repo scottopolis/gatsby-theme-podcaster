@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+/* Put custom code here */
+.podcast-theme-header {
+    background-image: url('../images/javascript-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-rounded {
+    @apply mb-1 rounded-full px-6 py-1 mx-1 inline-block text-center;
+}
+
+.accordion p {
+    @apply mb-2;
+}
+
+@tailwind utilities;
