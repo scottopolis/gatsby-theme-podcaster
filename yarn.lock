@@ -4552,11 +4552,6 @@ gatsby-telemetry@^1.1.17:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-minimal@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-minimal/-/gatsby-theme-minimal-1.0.0.tgz#ca6c41324c46e14c1933303bf54d14516e41806d"
-  integrity sha512-MHrBYlfTMkXp1V0IUX0YMg+tSbQ9fsROEel4YlVUjStPUbfVtJNP8hJ0wG1wCqn9Qk7JjykR01gtNRkKBtzPWg==
-
 gatsby-theme-tailwindcss@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/gatsby-theme-tailwindcss/-/gatsby-theme-tailwindcss-1.0.1.tgz#038a74d91378d3750be4a722e73389305208b74a"
@@ -7353,9 +7348,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
